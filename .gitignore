@@ -1,6 +1,12 @@
 __pycache__/
 *.pyc
+# Ignore raw data
 data/raw/
-data/processed/
+
+# Ignore everything in processed
+data/processed/*
+
+# EXCEPT final dataset (needed for app)
+!data/processed/final_cdm_dataset.csv
 .ipynb_checkpoints/
 .DS_Store
