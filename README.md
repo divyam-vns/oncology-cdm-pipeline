@@ -44,12 +44,12 @@ This project builds a **clinical-grade oncology data pipeline** that transforms 
 
 ---
 
-## 📊 Key Outputs
+##  Key Outputs
 
-### 📉 Kaplan–Meier Survival Curve
+###  Kaplan–Meier Survival Curve
 ![KM Plot](outputs/km_final.png)
 
-### 📊 Cox Proportional Hazards Model
+###  Cox Proportional Hazards Model
 ![Cox Plot](outputs/cox_forest.png)
 
 ---
